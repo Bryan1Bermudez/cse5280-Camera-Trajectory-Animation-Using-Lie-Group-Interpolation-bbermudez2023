@@ -1,1 +1,4 @@
 # cse5280-Camera-Trajectory-Animation-Using-Lie-Group-Interpolation-bbermudez2023
+
+**Name:** Bryan Bermudez
+**NetID:** bbermudez2023
